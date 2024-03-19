@@ -15,8 +15,6 @@ Built using Python and deployed with Streamlit.
 ### Project 2: [Chatbot Front End](https://appchatpy-lg3uuisgagqdcuik8wgkfg.streamlit.app/)
 A simplified front end for generative chatbots.
 
-### Project 3: [Project Name 3](link_to_project_3)
-Description: Brief description of Project 3.
 
 ## Contact Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/wgreunke/)
