@@ -1,6 +1,6 @@
 # My AI Projects Portfolio
+<img src="Ward_Portrai.jpg" alt="drawing" width="200"/>
 
-![Profile Picture](Ward_Portrait.jpg)
 
 ## Summary
 Welcome to my portfolio! Below are some of the AI projects I've created using Python. Feel free to explore them on GitHub.
