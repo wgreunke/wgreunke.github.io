@@ -1,5 +1,5 @@
 # My AI Projects Portfolio
-<img src="Ward_Portrait.jpg" alt="drawing" width="200"/>
+<img src="Ward_Portrait.jpg" alt="drawing" width="125"/>
 
 
 ## Summary
