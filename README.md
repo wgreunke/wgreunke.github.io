@@ -3,7 +3,7 @@
 
 
 ## Summary
-Welcome to my portfolio! Below are some of the AI projects I've created using Python. Feel free to explore them on GitHub.
+I am passionate about creating products and bringing them to market.  AI helps accelerate that journey.
 
 ### AI Projects
 + RAG: [Gutenberg Library AI Query Tool](https://gutenberg.streamlit.app/) A Retrieval Augmented Generation(RAG) tool that allows you to query books from the Gutenberg library that were not included in the ChatGPT-3.5-Turbo model. Built using Python and deployed with Streamlit. [GitHub Repository](https://gutenberg.streamlit.app/)
