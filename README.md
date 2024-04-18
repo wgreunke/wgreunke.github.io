@@ -10,6 +10,14 @@ Welcome to my portfolio! Below are some of the AI projects I've created using Py
 + [Chatbot Front End](https://appchatpy-lg3uuisgagqdcuik8wgkfg.streamlit.app/) A simplified front end for generative chatbots.
 + No Code - Text Input tool that allows users to generate Javascript games using only text input.  Built with Python and Streamlit.
 
+### AI Articles
++ [Introduction to AI Chatbots ](https://www.linkedin.com/pulse/introduction-how-ai-modular-chatbots-work-part-1-ward-greunke-q4xqc)
++ [Part 2 ](https://www.linkedin.com/pulse/introduction-components-ai-chat-application-part-2-ward-greunke-c94sc)
+
++ [ ]()
++ [ ]()
++ [ ]()
+
 
 ## Contact Me
 - [LinkedIn Profile](https://www.linkedin.com/in/wgreunke/)
