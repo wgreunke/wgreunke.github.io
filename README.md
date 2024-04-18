@@ -12,11 +12,9 @@ Welcome to my portfolio! Below are some of the AI projects I've created using Py
 
 ### AI Articles
 + [Introduction to AI Chatbots ](https://www.linkedin.com/pulse/introduction-how-ai-modular-chatbots-work-part-1-ward-greunke-q4xqc)
-+ [Part 2 ](https://www.linkedin.com/pulse/introduction-components-ai-chat-application-part-2-ward-greunke-c94sc)
-
-+ [ ]()
-+ [ ]()
-+ [ ]()
+  + [Part 2 ](https://www.linkedin.com/pulse/introduction-components-ai-chat-application-part-2-ward-greunke-c94sc)
++ [Neural Networks](https://www.linkedin.com/pulse/want-understand-how-neural-networks-work-just-ask-friend-ward-greunke-abngc)
++ [Difference between RAG and Fine Tuning](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7179593602287763456/)
 
 
 ## Contact Me
