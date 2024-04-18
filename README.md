@@ -6,9 +6,10 @@
 I am passionate about creating products and bringing them to market.  AI helps accelerate that journey.
 
 ### AI Projects
-+ RAG: [Gutenberg Library AI Query Tool](https://gutenberg.streamlit.app/) A Retrieval Augmented Generation(RAG) tool that allows you to query books from the Gutenberg library that were not included in the ChatGPT-3.5-Turbo model. Built using Python and deployed with Streamlit. [GitHub Repository](https://gutenberg.streamlit.app/)
++ RAG: [Gutenberg Library AI Query Tool](https://gutenberg.streamlit.app/) A Retrieval Augmented Generation(RAG) tool that allows you to query books from the Gutenberg library that were not included in the ChatGPT-3.5-Turbo model. Built using Python and deployed with Streamlit. [Code](https://gutenberg.streamlit.app/)
 + [Chatbot Front End](https://appchatpy-lg3uuisgagqdcuik8wgkfg.streamlit.app/) A simplified front end for generative chatbots.
 + No Code/Text Input tool that allows users to generate Javascript games using only text input.  Built with Python and Streamlit.
++ Image Classification using convoluted neural network(CNN) fine-tuned with Tensorflow
 
 ### AI Articles
 + [Introduction to AI Chatbots ](https://www.linkedin.com/pulse/introduction-how-ai-modular-chatbots-work-part-1-ward-greunke-q4xqc)
@@ -17,5 +18,6 @@ I am passionate about creating products and bringing them to market.  AI helps a
 + [Difference between RAG and Fine Tuning](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7179593602287763456/)
 
 
-## Contact Me
+## My Pages
+- [Github Repository](https://github.com/wgreunke)
 - [LinkedIn Profile](https://www.linkedin.com/in/wgreunke/)
