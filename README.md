@@ -1,4 +1,4 @@
-#AI Projects Portfolio
+# AI Projects Portfolio
 <img src="Ward_Portrait.jpg" alt="drawing" width="125"/>
 
 
