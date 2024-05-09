@@ -20,7 +20,7 @@ I am passionate about creating products and bringing them to market.  AI helps a
 
 
 ### Additional Projects
-[GreekGraph - An option trading strategey visualization tool.](https://www.greekgraph.com)
+[GreekGraph](https://www.greekgraph.com)- An option trading strategey visualization tool.
 
 ## My Pages
 - [Github Repository](https://github.com/wgreunke)
