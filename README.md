@@ -19,6 +19,9 @@ I am passionate about creating products and bringing them to market.  AI helps a
 + [Difference between RAG and Fine Tuning](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7179593602287763456/)
 
 
+### Additional Projects
+[GreekGraph - An option trading strategey visualization tool.](https://www.greekgraph.com)
+
 ## My Pages
 - [Github Repository](https://github.com/wgreunke)
 - [LinkedIn Profile](https://www.linkedin.com/in/wgreunke/)
