@@ -20,8 +20,8 @@ I am passionate about creating products and bringing them to market.  AI helps a
 
 
 ### Additional Projects
-+ [GreekGraph](https://www.greekgraph.com)- An option trading strategey visualization tool.
-+ [Pizza and Beer](https://fleet18.streamlit.app/) Problem - After windsurf racing every Tuesday night in Foster City, the whole group goes out for pizza and beer.  Splitting the bill is hard because not everyone drinks beer.  I create and app that calculates how much each person owes at the end of the night.
++ [GreekGraph](https://www.greekgraph.com) - An option trading strategey visualization tool.
++ [Pizza and Beer](https://fleet18.streamlit.app/) - Problem: After windsurf racing every Tuesday night in Foster City, the whole group goes out for pizza and beer.  Splitting the bill is hard because not everyone drinks beer.  I created an app that calculates how much each person owes at the end of the night in Python and Streamlit.  You can see the code here: [GitHub](https://github.com/wgreunke/fleet18_pizza_bill_splitter)
 
 
 ## My Pages
