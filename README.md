@@ -6,6 +6,7 @@
 I am passionate about creating products and bringing them to market.  AI helps accelerate that journey.
 
 ### AI Projects
++ AWS AI Hackathon - Second Place: [Sugar Reduction App](https://www.linkedin.com/posts/devindersodhi_hacktahon-aicamp-aws-activity-7238640040858247168-4nA4?utm_source=share&utm_medium=member_desktop) App that uses multi-modal llm to parse nutrition labels on food to show the amount of sugar per serving as well as the steps you have to walk to work off the calories per serving. 
 + Tidb Hackathon: [Fact Checker](https://devpost.com/software/fact-checker-1pt56l) Allows you to determine if a statement is true or false by comparing the statement to reference documents held in a vector databases.  A RAG application built using Tidb vector database, SentenceTransformers vector embedding, LangChain and GPT-4o mini.
 + RAG: [Gutenberg Library AI Query Tool](https://gutenberg.streamlit.app/) A Retrieval Augmented Generation(RAG) tool that allows you to query books from the Gutenberg library that were not included in the ChatGPT-3.5-Turbo model. Built using Python and deployed with Streamlit. [Code](https://gutenberg.streamlit.app/)
 + [Chatbot Front End](https://appchatpy-lg3uuisgagqdcuik8wgkfg.streamlit.app/) A simplified front end for generative chatbots.
