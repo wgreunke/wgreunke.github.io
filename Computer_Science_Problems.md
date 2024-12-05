@@ -98,6 +98,103 @@ Problems in this category include gradient descent for minimizing functions, hyp
 # People
 1. Alan Turing - Turing Complete
 2. George Boole
+3. 
+
+
+
+# Algorithms
+1. Breadth First vs Depth First
+2. Bubble Sort
+
+
+Sorting and Searching
+# Sorting Algorithms:
+
+Quick Sort: Divide-and-conquer sorting algorithm with average-case O(n log n) complexity.
+Merge Sort: Stable, divide-and-conquer sorting algorithm with guaranteed O(n log n) complexity.
+Heap Sort: Uses a heap data structure for O(n log n) sorting.
+Bubble Sort (and variations): Useful for understanding algorithmic basics despite inefficiency.
+Radix Sort: Efficient for sorting integers with O(nk) complexity (non-comparative).
+Searching Algorithms:
+
+Binary Search: Efficient search for sorted arrays with O(log n) complexity.
+Linear Search: Basic, unsorted search with O(n) complexity.
+
+# Graph Algorithms
+## Traversal:
+
+Depth-First Search (DFS): Explore as far as possible along branches (O(V+E)).
+Breadth-First Search (BFS): Explore level by level in graphs (O(V+E)).
+## Shortest Path:
+
+Dijkstra’s Algorithm: Finds the shortest path in a graph with non-negative weights (O(V^2) or O(E + V log V) with a priority queue).
+Bellman-Ford Algorithm: Handles graphs with negative weights (O(VE)).
+A* (A-star): Heuristic-based shortest path for pathfinding.
+Minimum Spanning Tree:
+
+Kruskal’s Algorithm: Greedy approach using a union-find data structure (O(E log E)).
+Prim’s Algorithm: Greedy algorithm using a priority queue (O(E + V log V)).
+Cycle Detection:
+
+Union-Find/Disjoint Set: Useful for detecting cycles in undirected graphs.
+Dynamic Programming (DP)
+# Famous Problems:
+
+Knapsack Problem: Optimize value under a weight constraint.
+Longest Common Subsequence (LCS): Find the longest subsequence common to two sequences.
+Matrix Chain Multiplication: Optimize the multiplication of a sequence of matrices.
+Floyd-Warshall Algorithm: Find shortest paths between all pairs of nodes.
+Kadane’s Algorithm: Maximum subarray sum in O(n).
+# General Techniques:
+
+Bottom-up and top-down memoization strategies.
+Divide-and-Conquer
+Binary Search (also mentioned in Searching).
+Merge Sort and Quick Sort (also mentioned in Sorting).
+Strassen’s Algorithm: Matrix multiplication in O(n^2.81).
+# Greedy Algorithms
+Activity Selection Problem: Select the maximum number of activities that don’t overlap.
+Huffman Encoding: Lossless compression using variable-length codes.
+Interval Scheduling: Find the optimal schedule for jobs.
+# String Algorithms
+String Matching:
+KMP (Knuth-Morris-Pratt) Algorithm: Efficient substring search.
+Rabin-Karp Algorithm: Uses hashing for substring search.
+Suffix Arrays and Trees: Efficient for pattern matching in text.
+# Number Theory and Cryptography
+Greatest Common Divisor (GCD):
+Euclid’s Algorithm: Find GCD in O(log min(a, b)).
+
+## Modular Arithmetic:
+Fast modular exponentiation.
+Fermat’s Little Theorem (for primality testing).
+RSA Algorithm: Core cryptographic algorithm.
+Concurrency and Parallelism
+Producer-Consumer Problem: Synchronization with semaphores.
+Mutex/Locks: Handle race conditions in multi-threaded applications.
+# Machine Learning and Data Algorithms
+K-Means Clustering: Group similar data points.
+Gradient Descent: Optimize parameters in machine learning models.
+# Data Structures and Their Algorithms
+Heap:
+Heapify: Maintain the heap property.
+Priority Queues: Efficient min/max retrieval.
+Trie: Efficient string matching and prefix searching.
+Balanced Trees:
+AVL Trees, Red-Black Trees: Self-balancing for efficient lookups and updates.
+## Hashing:
+Efficient for lookups (O(1) on average).
+Miscellaneous
+## Backtracking:
+N-Queens Problem: Place N queens on an N×N chessboard.
+Sudoku Solver: Constraint satisfaction.
+Monte Carlo and Las Vegas Algorithms:
+Randomized algorithms for approximate or exact solutions.
+
+Bit Manipulation:
+Find unique numbers, subsets, or perform arithmetic with bitwise operators.
+
+
 
 
 # Terminology
