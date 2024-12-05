@@ -69,5 +69,37 @@ An important problem in game theory and decision theory, where two individuals m
 22. Resource Allocation Problems
 These involve distributing resources among competing entities in a way that optimizes a certain objective. Examples include load balancing, scheduling, and budget allocation.
 
-23. Machine Learning Optimization Problems
+
+Dining Philosophers Problem:
+
+Philosophers sitting around a table must share forks to eat but avoid deadlock and starvation.
+Significance: Classic synchronization problem in concurrent programming.
+Byzantine Generals Problem:
+
+A group of generals must agree on a common plan of action, but some generals might be traitors.
+Significance: Foundation of fault-tolerant distributed systems and blockchain consensus algorithms.
+
+
+
+Game Theory and Decision Making
+Prisoner's Dilemma:
+
+Two prisoners must decide whether to cooperate or betray each other without knowing the other's choice.
+Significance: Explains concepts of trust and strategy in multi-agent systems.
+Minimax Problem:
+
+Used in two-player games to minimize the possible loss for a worst-case scenario.
+Significance: Basis for AI in games like chess and tic-tac-toe.
+
+24. Machine Learning Optimization Problems
 Problems in this category include gradient descent for minimizing functions, hyperparameter tuning, and solving various types of loss functions in neural networks.
+
+
+# People
+1. Alan Turing - Turing Complete
+2. George Boole
+
+
+# Terminology
+1. Bug
+2. 
