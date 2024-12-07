@@ -19,6 +19,8 @@ Lesson: Innovation doesn't always require a new product—sometimes, reframing t
 
 Different colored prescription pills.
 
+1. Insurance call center instead of reducing the operational time, tell people they get the check in 2 weeks and deliver it in 8 days.  They will be thankful for early check.  Related to waiting time for train.  People dont mind waiting if they know how long until the next train.  Takes the stress out.  Also uber watching car arrive.  Got the idea from watching the James Bond movie, Goldfinger.
+
 
 
 # Top ten rules
