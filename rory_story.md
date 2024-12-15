@@ -21,6 +21,11 @@ Different colored prescription pills.
 
 1. Insurance call center instead of reducing the operational time, tell people they get the check in 2 weeks and deliver it in 8 days.  They will be thankful for early check.  Related to waiting time for train.  People dont mind waiting if they know how long until the next train.  Takes the stress out.  Also uber watching car arrive.  Got the idea from watching the James Bond movie, Goldfinger.
 
+Electric cars need framing that says the savings of electric over gas.    Hard becuase depends on price of electricity and price of gas and mpg of equivelent car.  Also cars are not measured in electric efficieny by in total range.
+
+Bees waggle dance.  Some bees will ignore group signals and look for new flowers.  Important part - small number of bees are put at risk / out of risk but entire hive benifits from new resource.  This does not work when people have to risk thier own livliyhood because the benifits can not be compounded over a bigger group.  See googles 1/5 indipendent project day.
+
+
 
 
 # Top ten rules
