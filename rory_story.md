@@ -29,3 +29,8 @@ Bees waggle dance.  Some bees will ignore group signals and look for new flowers
 
 
 # Top ten rules
+
+
+Next:
+1. Bottles
+2. Jetlag - connection to airline
