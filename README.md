@@ -8,11 +8,11 @@ I am passionate about creating products and bringing them to market.  AI helps a
 ### AI Projects
 + Nvidia / LlamaIndex Developer Contest https://wgreunke.github.io/nvidia_llama_hackathon/
   + Visualize events from different news articles related to Hurricane Helene on a map.  Built with React / LlamaIndex / Nvida NIM - abacusai/dracarys-llama-3.1-70b-instruct LLM.
+  + [View App:](https://wgreunke.github.io/nvidia_llama_hackathon/)
 + AWS AI Hackathon - Second Place: [Sugar Reduction App / Osebusters](https://www.linkedin.com/posts/devindersodhi_hacktahon-aicamp-aws-activity-7238640040858247168-4nA4?utm_source=share&utm_medium=member_desktop) that uses multi-modal llm to parse nutrition labels on food to show the amount of sugar per serving as well as the steps you have to walk to work off the calories per serving. 
 + Tidb Hackathon: [Fact Checker](https://devpost.com/software/fact-checker-1pt56l) Allows you to determine if a statement is true or false by comparing the statement to reference documents held in a vector databases.  A RAG application built using Tidb vector database, SentenceTransformers vector embedding, LangChain and GPT-4o mini.
 + [Google Geminia Hackathon - Kaggle](https://www.youtube.com/watch?v=2jGyPHf0QHQ) - Used long context window to capture code from YouTube Videos 
 + RAG: [Gutenberg Library AI Query Tool](https://gutenberg.streamlit.app/) A Retrieval Augmented Generation(RAG) tool that allows you to query books from the Gutenberg library that were not included in the ChatGPT-3.5-Turbo model. Built using Python and deployed with Streamlit. [Code](https://gutenberg.streamlit.app/)
-+ [Chatbot Front End](https://appchatpy-lg3uuisgagqdcuik8wgkfg.streamlit.app/) A simplified front end for generative chatbots.
 + No Code/Text Input tool that allows users to generate Javascript games using only text input.  Built with Python and Streamlit.
 + Image Classification using Convoluted Neural Network(CNN) fine-tuned with TensorFlow
 
