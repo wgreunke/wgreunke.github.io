@@ -1,10 +1,10 @@
-Logo
+<img src="pizza-beer-logo.png" alt="logo" width="200"/>
 
 **Pizza & Beer Splitter**
 Fair tab-splitting made easy.
 
 When everyone shares the pizza, but only some drink beer, figuring out who owes what gets tricky.
-Pizza & Beer Splitter does the math for you — fast, fair, and frustration-free.
+Pizza & Beer Bill Splitter does the math for you — fast, fair, and frustration-free.
 
 🧮 How it works:
 1) Enter the total pizza cost
