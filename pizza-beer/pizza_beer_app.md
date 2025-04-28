@@ -1,4 +1,4 @@
-<img src="pizza-beer-logo.png" alt="logo" width="200"/>
+<img src="pizza-beer-logo-2.png" alt="logo" width="200"/>
 
 **Pizza & Beer Splitter**
 Fair tab-splitting made easy.
