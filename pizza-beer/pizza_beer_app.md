@@ -23,5 +23,5 @@ Get a fair split for everyone!
 [Contact us:](
 https://docs.google.com/forms/d/e/1FAIpQLSfAtjnt0El0oERWm_JyTqrziTH7oKNj1fJbUM1-jlwidT6yMw/viewform)
 
-[Privacy Policy:](privacy-policy).
+[Privacy Policy:](https://wgreunke.github.io/pizza-beer/privacy-policy)
 
